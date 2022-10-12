@@ -48,7 +48,7 @@
     "jasmine": "^3.3.1",
     "jasmine-console-reporter": "^3.1.0",
     "jasmine-pretty-html-reporter": "^0.2.5",
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.5.0",
     "jasmine-xml2html-converter": "0.0.2"
   }
 }
